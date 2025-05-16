@@ -1,4 +1,4 @@
-
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
 # Hello World!, I'm Lokesh, a React Native Developer 👋🏼:
 🛜 currently working on my own [webpage](https://www.tobiasmeyhoefer.de)<br>👨🏼‍🎓Studied at Dr. M.G.R. Educational and Research Institute.<br>👨🏼‍💻 working as a Mobile App developer since 2019 
